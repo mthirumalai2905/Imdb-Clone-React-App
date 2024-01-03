@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![My Gallery Image](https://github.com/mthirumalai2905/Imdb-Clone-React-App/raw/main/images/Screenshot (83).png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
