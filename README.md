@@ -22,11 +22,14 @@ Follow these steps to get the app up and running on your local machine:
 1. Clone the repository:
 
    ```bash
+   
    git clone https://github.com/Imdb-Clone-React-App.git
+   
    Change into the project directory:
+   
    cd Imdb-Clone-React-App
+   
    Install dependencies:
-
 
    npm install
 
@@ -48,7 +51,7 @@ REACT_APP_MESSAGING_SENDER_ID=your_messaging_sender_id
 REACT_APP_APP_ID=your_app_id
 Start the development server:
 
-```bash
+
 npm start
 ```
 Open your browser and navigate to http://localhost:3000 to view the app.
@@ -61,8 +64,11 @@ Open your browser and navigate to http://localhost:3000 to view the app.
 ##Folder Structure
 ```bash
 src/: Contains the React components and application logic.
+
 public/: Static assets and HTML template.
+
 node_modules/: Installed dependencies.
+
 package.json: Project configuration file.
 ```
 
