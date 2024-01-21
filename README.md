@@ -5,7 +5,6 @@ This is an IMDb Clone built using React and Firebase. The app allows users to ex
 ## Features
 
 - **Movie Database:** Explore a vast collection of movies and TV shows.
-- **Search Functionality:** Easily search for your favorite titles.
 - **User Authentication:** Create an account, log in, and personalize your experience.
 - **User Reviews and Ratings:** Share your opinions and rate movies and TV shows.
 - **Firebase Integration:** Backend powered by Firebase for real-time updates and user authentication.
