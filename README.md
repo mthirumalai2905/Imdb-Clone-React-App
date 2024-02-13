@@ -1,4 +1,4 @@
-# IMDb Clone React App
+# IMDb Clone React App.
 
 This is an IMDb Clone built using React and Firebase. The app allows users to explore movies, TV shows, and more, just like the popular IMDb platform.
 
